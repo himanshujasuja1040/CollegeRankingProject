@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 Github Link : https://github.com/himanshujasuja1040/CollegeRankingProject
+
+![image](https://github.com/user-attachments/assets/fb87c844-39b0-480b-8471-e3b2794e3122)
+
+![image](https://github.com/user-attachments/assets/b97caae7-0d4b-48bb-9655-9f413aa95e11)
