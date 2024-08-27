@@ -1,0 +1,552 @@
+[
+  {
+    "rank": 1,
+    "college": "College A",
+    "fees": 10000,
+    "placement": {
+      "averagePackage": 50000,
+      "highestPackage": 100000
+    },
+    "userReview": 4.5,
+    "ranking": 1
+  },
+  {
+    "rank": 2,
+    "college": "College B",
+    "fees": 12000,
+    "placement": {
+      "averagePackage": 55000,
+      "highestPackage": 110000
+    },
+    "userReview": 4.3,
+    "ranking": 2
+  },
+  {
+    "rank": 3,
+    "college": "College C",
+    "fees": 15000,
+    "placement": {
+      "averagePackage": 60000,
+      "highestPackage": 120000
+    },
+    "userReview": 4.7,
+    "ranking": 3
+  },
+  {
+    "rank": 4,
+    "college": "College D",
+    "fees": 9000,
+    "placement": {
+      "averagePackage": 48000,
+      "highestPackage": 95000
+    },
+    "userReview": 4.2,
+    "ranking": 4
+  },
+  {
+    "rank": 5,
+    "college": "College E",
+    "fees": 11000,
+    "placement": {
+      "averagePackage": 52000,
+      "highestPackage": 105000
+    },
+    "userReview": 4.4,
+    "ranking": 5
+  },
+  {
+    "rank": 6,
+    "college": "College F",
+    "fees": 13000,
+    "placement": {
+      "averagePackage": 57000,
+      "highestPackage": 115000
+    },
+    "userReview": 4.6,
+    "ranking": 6
+  },
+  {
+    "rank": 7,
+    "college": "College G",
+    "fees": 14000,
+    "placement": {
+      "averagePackage": 59000,
+      "highestPackage": 118000
+    },
+    "userReview": 4.5,
+    "ranking": 7
+  },
+  {
+    "rank": 8,
+    "college": "College H",
+    "fees": 8000,
+    "placement": {
+      "averagePackage": 47000,
+      "highestPackage": 92000
+    },
+    "userReview": 4.1,
+    "ranking": 8
+  },
+  {
+    "rank": 9,
+    "college": "College I",
+    "fees": 10000,
+    "placement": {
+      "averagePackage": 50000,
+      "highestPackage": 100000
+    },
+    "userReview": 4.3,
+    "ranking": 9
+  },
+  {
+    "rank": 10,
+    "college": "College J",
+    "fees": 12000,
+    "placement": {
+      "averagePackage": 55000,
+      "highestPackage": 110000
+    },
+    "userReview": 4.4,
+    "ranking": 10
+  },
+  {
+    "rank": 11,
+    "college": "College K",
+    "fees": 15000,
+    "placement": {
+      "averagePackage": 60000,
+      "highestPackage": 120000
+    },
+    "userReview": 4.7,
+    "ranking": 11
+  },
+  {
+    "rank": 12,
+    "college": "College L",
+    "fees": 9000,
+    "placement": {
+      "averagePackage": 48000,
+      "highestPackage": 95000
+    },
+    "userReview": 4.2,
+    "ranking": 12
+  },
+  {
+    "rank": 13,
+    "college": "College M",
+    "fees": 11000,
+    "placement": {
+      "averagePackage": 52000,
+      "highestPackage": 105000
+    },
+    "userReview": 4.4,
+    "ranking": 13
+  },
+  {
+    "rank": 14,
+    "college": "College N",
+    "fees": 13000,
+    "placement": {
+      "averagePackage": 57000,
+      "highestPackage": 115000
+    },
+    "userReview": 4.6,
+    "ranking": 14
+  },
+  {
+    "rank": 15,
+    "college": "College O",
+    "fees": 14000,
+    "placement": {
+      "averagePackage": 59000,
+      "highestPackage": 118000
+    },
+    "userReview": 4.5,
+    "ranking": 15
+  },
+  {
+    "rank": 16,
+    "college": "College P",
+    "fees": 8000,
+    "placement": {
+      "averagePackage": 47000,
+      "highestPackage": 92000
+    },
+    "userReview": 4.1,
+    "ranking": 16
+  },
+  {
+    "rank": 17,
+    "college": "College Q",
+    "fees": 10000,
+    "placement": {
+      "averagePackage": 50000,
+      "highestPackage": 100000
+    },
+    "userReview": 4.3,
+    "ranking": 17
+  },
+  {
+    "rank": 18,
+    "college": "College R",
+    "fees": 12000,
+    "placement": {
+      "averagePackage": 55000,
+      "highestPackage": 110000
+    },
+    "userReview": 4.4,
+    "ranking": 18
+  },
+  {
+    "rank": 19,
+    "college": "College S",
+    "fees": 15000,
+    "placement": {
+      "averagePackage": 60000,
+      "highestPackage": 120000
+    },
+    "userReview": 4.7,
+    "ranking": 19
+  },
+  {
+    "rank": 20,
+    "college": "College T",
+    "fees": 9000,
+    "placement": {
+      "averagePackage": 48000,
+      "highestPackage": 95000
+    },
+    "userReview": 4.2,
+    "ranking": 20
+  },
+  {
+    "rank": 21,
+    "college": "College U",
+    "fees": 11000,
+    "placement": {
+      "averagePackage": 52000,
+      "highestPackage": 105000
+    },
+    "userReview": 4.4,
+    "ranking": 21
+  },
+  {
+    "rank": 22,
+    "college": "College V",
+    "fees": 13000,
+    "placement": {
+      "averagePackage": 57000,
+      "highestPackage": 115000
+    },
+    "userReview": 4.6,
+    "ranking": 22
+  },
+  {
+    "rank": 23,
+    "college": "College W",
+    "fees": 14000,
+    "placement": {
+      "averagePackage": 59000,
+      "highestPackage": 118000
+    },
+    "userReview": 4.5,
+    "ranking": 23
+  },
+  {
+    "rank": 24,
+    "college": "College X",
+    "fees": 8000,
+    "placement": {
+      "averagePackage": 47000,
+      "highestPackage": 92000
+    },
+    "userReview": 4.1,
+    "ranking": 24
+  },
+  {
+    "rank": 25,
+    "college": "College Y",
+    "fees": 10000,
+    "placement": {
+      "averagePackage": 50000,
+      "highestPackage": 100000
+    },
+    "userReview": 4.3,
+    "ranking": 25
+  },
+  {
+    "rank": 26,
+    "college": "College Z",
+    "fees": 12000,
+    "placement": {
+      "averagePackage": 55000,
+      "highestPackage": 110000
+    },
+    "userReview": 4.4,
+    "ranking": 26
+  },
+  {
+    "rank": 27,
+    "college": "College AA",
+    "fees": 15000,
+    "placement": {
+      "averagePackage": 60000,
+      "highestPackage": 120000
+    },
+    "userReview": 4.7,
+    "ranking": 27
+  },
+  {
+    "rank": 28,
+    "college": "College AB",
+    "fees": 9000,
+    "placement": {
+      "averagePackage": 48000,
+      "highestPackage": 95000
+    },
+    "userReview": 4.2,
+    "ranking": 28
+  },
+  {
+    "rank": 29,
+    "college": "College AC",
+    "fees": 11000,
+    "placement": {
+      "averagePackage": 52000,
+      "highestPackage": 105000
+    },
+    "userReview": 4.4,
+    "ranking": 29
+  },
+  {
+    "rank": 30,
+    "college": "College AD",
+    "fees": 13000,
+    "placement": {
+      "averagePackage": 57000,
+      "highestPackage": 115000
+    },
+    "userReview": 4.6,
+    "ranking": 30
+  },
+  {
+    "rank": 31,
+    "college": "College AE",
+    "fees": 14000,
+    "placement": {
+      "averagePackage": 59000,
+      "highestPackage": 118000
+    },
+    "userReview": 4.5,
+    "ranking": 31
+  },
+  {
+    "rank": 32,
+    "college": "College AF",
+    "fees": 8000,
+    "placement": {
+      "averagePackage": 47000,
+      "highestPackage": 92000
+    },
+    "userReview": 4.1,
+    "ranking": 32
+  },
+  {
+    "rank": 33,
+    "college": "College AG",
+    "fees": 10000,
+    "placement": {
+      "averagePackage": 50000,
+      "highestPackage": 100000
+    },
+    "userReview": 4.3,
+    "ranking": 33
+  },
+  {
+    "rank": 34,
+    "college": "College AH",
+    "fees": 12000,
+    "placement": {
+      "averagePackage": 55000,
+      "highestPackage": 110000
+    },
+    "userReview": 4.4,
+    "ranking": 34
+  },
+  {
+    "rank": 35,
+    "college": "College AI",
+    "fees": 15000,
+    "placement": {
+      "averagePackage": 60000,
+      "highestPackage": 120000
+    },
+    "userReview": 4.7,
+    "ranking": 35
+  },
+  {
+    "rank": 36,
+    "college": "College AJ",
+    "fees": 9000,
+    "placement": {
+      "averagePackage": 48000,
+      "highestPackage": 95000
+    },
+    "userReview": 4.2,
+    "ranking": 36
+  },
+  {
+    "rank": 37,
+    "college": "College AK",
+    "fees": 11000,
+    "placement": {
+      "averagePackage": 52000,
+      "highestPackage": 105000
+    },
+    "userReview": 4.4,
+    "ranking": 37
+  },
+  {
+    "rank": 38,
+    "college": "College AL",
+    "fees": 13000,
+    "placement": {
+      "averagePackage": 57000,
+      "highestPackage": 115000
+    },
+    "userReview": 4.6,
+    "ranking": 38
+  },
+  {
+    "rank": 39,
+    "college": "College AM",
+    "fees": 14000,
+    "placement": {
+      "averagePackage": 59000,
+      "highestPackage": 118000
+    },
+    "userReview": 4.5,
+    "ranking": 39
+  },
+  {
+    "rank": 40,
+    "college": "College AN",
+    "fees": 8000,
+    "placement": {
+      "averagePackage": 47000,
+      "highestPackage": 92000
+    },
+    "userReview": 4.1,
+    "ranking": 40
+  },
+  {
+    "rank": 41,
+    "college": "College AO",
+    "fees": 10000,
+    "placement": {
+      "averagePackage": 50000,
+      "highestPackage": 100000
+    },
+    "userReview": 4.3,
+    "ranking": 41
+  },
+  {
+    "rank": 42,
+    "college": "College AP",
+    "fees": 12000,
+    "placement": {
+      "averagePackage": 55000,
+      "highestPackage": 110000
+    },
+    "userReview": 4.4,
+    "ranking": 42
+  },
+  {
+    "rank": 43,
+    "college": "College AQ",
+    "fees": 15000,
+    "placement": {
+      "averagePackage": 60000,
+      "highestPackage": 120000
+    },
+    "userReview": 4.7,
+    "ranking": 43
+  },
+  {
+    "rank": 44,
+    "college": "College AR",
+    "fees": 9000,
+    "placement": {
+      "averagePackage": 48000,
+      "highestPackage": 95000
+    },
+    "userReview": 4.2,
+    "ranking": 44
+  },
+  {
+    "rank": 45,
+    "college": "College AS",
+    "fees": 11000,
+    "placement": {
+      "averagePackage": 52000,
+      "highestPackage": 105000
+    },
+    "userReview": 4.4,
+    "ranking": 45
+  },
+  {
+    "rank": 46,
+    "college": "College AT",
+    "fees": 13000,
+    "placement": {
+      "averagePackage": 57000,
+      "highestPackage": 115000
+    },
+    "userReview": 4.6,
+    "ranking": 46
+  },
+  {
+    "rank": 47,
+    "college": "College AU",
+    "fees": 14000,
+    "placement": {
+      "averagePackage": 59000,
+      "highestPackage": 118000
+    },
+    "userReview": 4.5,
+    "ranking": 47
+  },
+  {
+    "rank": 48,
+    "college": "College AV",
+    "fees": 8000,
+    "placement": {
+      "averagePackage": 47000,
+      "highestPackage": 92000
+    },
+    "userReview": 4.1,
+    "ranking": 48
+  },
+  {
+    "rank": 49,
+    "college": "College AW",
+    "fees": 10000,
+    "placement": {
+      "averagePackage": 50000,
+      "highestPackage": 100000
+    },
+    "userReview": 4.3,
+    "ranking": 49
+  },
+  {
+    "rank": 50,
+    "college": "College AX",
+    "fees": 12000,
+    "placement": {
+      "averagePackage": 55000,
+      "highestPackage": 110000
+    },
+    "userReview": 4.4,
+    "ranking": 50
+  }
+]

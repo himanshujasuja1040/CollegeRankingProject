@@ -1,0 +1,30 @@
+.scrollable-container {
+  height: 100%;
+  overflow: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.college-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.college-table th, .college-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.college-table th {
+  cursor: pointer;
+  background-color: #f2f2f2;
+}
+
+.college-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.college-table tr:hover {
+  background-color: #ddd;
+}

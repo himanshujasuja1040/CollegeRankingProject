@@ -1,0 +1,104 @@
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .college-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .tableHeader {
+    background-color: #2f7f7f;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .tableHeader th {
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .tableBody {
+    border: 2px solid #ddd;
+  }
+  
+  .tableBody tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .tableBody tr:last-child {
+    border-bottom: none;
+  }
+  
+  .tableBody td {
+    padding: 10px;
+    text-align: left;
+    border-right: 1px solid #ddd;
+  }
+  
+  .tableBody td:last-child {
+    border-right: none;
+  }
+  
+  .college-name {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .college-actions {
+    font-size: 12px;
+    color: #666;
+    margin-top: 10px;
+  }
+  
+  .college-actions span {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .college-actions span:hover {
+    color: #309f9f;
+  }
+  
+  .placement-info {
+    font-size: 12px;
+    color: #666;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .placement-info div {
+    margin-bottom: 10px;
+  }
+  
+  .placement-info span {
+    color: #309f9f;
+  }
+  
+  .user-review {
+    font-size: 12px;
+    color: #666;
+  }
+  
+  .user-review span {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .user-review span:last-child {
+    font-size: 12px;
+    color: #666;
+  }
